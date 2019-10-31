@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Pop the Balloons",
+"productVersion": "0.1",
+"dataUrl": "Pop The Balloons - WebGL.data.unityweb",
+"wasmCodeUrl": "Pop The Balloons - WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Pop The Balloons - WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.10f1"
+}
